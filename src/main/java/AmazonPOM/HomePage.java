@@ -13,6 +13,11 @@ import neoStoxPOM.UtilityProperties;
 public class HomePage
 {
 	
+	
+	
+	
+	
+	
 	@FindBy(id = "twotabsearchtextbox")private WebElement searchbar;
 	
 //	@FindBy(xpath = "(//div[@class='nav-issFlyout nav-flyout']//div)[15]")private WebElement Iphone;
