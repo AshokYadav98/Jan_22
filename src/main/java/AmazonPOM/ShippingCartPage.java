@@ -10,6 +10,12 @@ import neoStoxPOM.UtilityProperties;
 
 public class ShippingCartPage
 {
+	
+	
+	
+	
+	
+	
 	@FindBy(id = "a-autoid-0-announce")private WebElement Dropdown;
 	@FindBy(xpath = "(//div[@class='a-popover-inner']//li)[5]")private WebElement selectquantityDropdown;
 	
